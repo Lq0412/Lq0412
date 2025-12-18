@@ -1,0 +1,31 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天自动更新
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Lq0412
+
+          # 基础块
+          template: classic
+          base: header, activity, community, repositories
+
+          # “代码量/代码行变更”核心：Lines of code changed
+          plugin_lines: yes
+          plugin_lines_sections: base
+
+          # 常见加分项（你不想要可以删）
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_followup: yes
+
+          config_timezone: Asia/Singapore
