@@ -29,17 +29,3 @@
 - 🚀 享受从 0 到 1 的过程：让一个想法通过 AI 快速验证，再把它认真打磨成能稳定运行的产品。
 
 ---
-
-### 🛠️ Featured Projects
-
-- ✈️ **[Travel](https://github.com/Lq0412/travel)** - 智能旅游服务平台
-- 📄 **[Resume](https://github.com/Lq0412/resume)** - AI 简历工具
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lq0412&show_icons=true&hide_border=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lq0412&layout=compact&hide_border=true&theme=radical" />
-</p>
