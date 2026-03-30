@@ -32,9 +32,8 @@
 
 ### 🛠️ Featured Projects
 
-- 📸 **[Picture](https://github.com/Lq0412/picture)** - 智能协同图库系统
 - ✈️ **[Travel](https://github.com/Lq0412/travel)** - 智能旅游服务平台
-- 📄 **[ResumeBoost](https://github.com/Lq0412/resumeboost)** - AI 简历优化工具
+- 📄 **[Resume](https://github.com/Lq0412/resume)** - AI 简历工具
 
 ---
 
