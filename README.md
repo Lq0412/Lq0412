@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:15919508513@163.com">📧 Email</a> · 💬 WeChat: lq13241221
+  <a href="mailto:15919508513@163.com">📧 Email：15919508513@163.com</a> · 💬 WeChat: lq13241221
 </p>
 
 ---
