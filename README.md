@@ -4,7 +4,7 @@
 
 <br/>
 
-`Python` `TypeScript` `Vue` `Rust` `Claude`
+`Python`  `Claude` `cursor` `codex`
 
 <br/>
 
